@@ -1,5 +1,3 @@
-" Pathogen
-execute pathogen#infect()
 " Themes
 set background=dark
 "highlight LineNr ctermfg=grey ctermbg=white
